@@ -1,21 +1,10 @@
-- 👋 Hi, I’m @Muhammad-ASAD0
-- 👀 I’m interested in programmming.
-- 🌱 I’m currently learning web developement.
-
-
-👋 Hi, I’m Muhammad Asad.
-
-🎓 I'm studying BE in Petroleum Engineering at NED University, currently in the final semester.
-
-👀 I’m interested in Data Science, and Web development.
-
-🌱 I’m learning Python & Web development.
-
-💞️ I’m looking to collaborate on Basic projects for my learning purpose.
-
-📫 #Lets connect,
+- 👋 Hi, I’m Muhammad Asad.
+- 🎓 I'm studying BE in Petroleum Engineering at NED University, currently in the final semester.
+- 👀 I’m interested in Data Science, and Web development.
+- 🌱 I’m learning Python & Web development.
+- 💞️ I’m looking to collaborate on Basic projects for my learning purpose.
+- 📫 #Lets connect,
           https://www.linkedin.com/in/themuhammadasad/
-
 Thanks.
 
 
