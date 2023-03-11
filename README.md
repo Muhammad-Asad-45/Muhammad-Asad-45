@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Basic projects for my learning purpose.
 - 📫 #Lets connect,
           https://www.linkedin.com/in/themuhammadasad/
-Thanks.
+  Thanks.
 
 
 <!---
